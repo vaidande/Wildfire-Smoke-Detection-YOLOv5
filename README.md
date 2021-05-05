@@ -5,3 +5,4 @@
 ![](https://github.com/vaidande/Wildfire-Smoke-Detection-YOLOv5/blob/9d72cb039a8b7661ee0d3cf1e78057a43a4d8eb9/images/smoke1.jpg)
 ![](https://github.com/vaidande/Wildfire-Smoke-Detection-YOLOv5/blob/61513ebbd7b7dbede1a6bb59c9fe58633c9219a0/images/smoke3.jpg)
 ![](https://github.com/vaidande/Wildfire-Smoke-Detection-YOLOv5/blob/61513ebbd7b7dbede1a6bb59c9fe58633c9219a0/images/smoke5.jpg)
+!video source https://twitter.com/stanfordjrbp/status/1296110294716919808?s=20
