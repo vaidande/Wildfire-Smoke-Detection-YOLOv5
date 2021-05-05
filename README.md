@@ -1,4 +1,5 @@
 # Wildfire-Smoke-Detection-YOLOv5
+Epochs=100
 # Wildfire detected in video
 ![Detected wildfire in video](https://github.com/vaidande/Wildfire-Smoke-Detection-YOLOv5/blob/2995855265698ad50a7705c944efdc2df44bb6f8/video2.gif)
 <br>video source to detect wildfire https://twitter.com/stanfordjrbp/status/1296110294716919808?s=20
