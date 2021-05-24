@@ -1,4 +1,6 @@
 # Wildfire-Smoke-Detection-YOLOv5
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vaidande/Wildfire-Smoke-Detection-YOLOv5/blob/main/Wildfire_Smoke_Detection_YOLOv5.ipynb)
+
 # Wildfire detected in video
 ![Detected wildfire in video](https://github.com/vaidande/Wildfire-Smoke-Detection-YOLOv5/blob/2995855265698ad50a7705c944efdc2df44bb6f8/video2.gif)
 <br>video source to detect wildfire https://twitter.com/stanfordjrbp/status/1296110294716919808?s=20
